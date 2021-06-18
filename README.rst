@@ -18,6 +18,10 @@ pytest-upload-report
     :target: https://ci.appveyor.com/project/tim2anna/pytest-upload-report/branch/master
     :alt: See Build Status on AppVeyor
 
+
+English | `简体中文 <docs/index.md>`_
+
+
 pytest-upload-report is a plugin for `pytest <http://pytest.org>`_ that upload your test report for test results.
 
 

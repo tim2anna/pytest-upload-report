@@ -23,6 +23,7 @@ setup(
     description='pytest-upload-report is a plugin for pytest that upload your test report for test results.',
     long_description=read('README.rst'),
     packages=["pytest_upload_report"],
+    keywords="py.test pytest report allure upload",
     python_requires='>=3.7',
     install_requires=['pytest>=6.2.4', 'requests>=2.25.1', 'allure-pytest>=2.9.43', 'pytest-html>=3.1.1'],
     classifiers=[
