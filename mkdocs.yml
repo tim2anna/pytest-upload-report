@@ -1,0 +1,10 @@
+site_name: pytest-upload-report
+site_description: Upload your report to server by api
+site_author: Anna
+
+theme: readthedocs
+
+repo_url: https://github.com/tim2anna/pytest-upload-report
+
+pages:
+- Home: index.md
