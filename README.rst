@@ -19,7 +19,7 @@ pytest-upload-report
     :alt: See Build Status on AppVeyor
 
 
-English | `简体中文 <docs/index.md>`_
+English | `简体中文 <docs/index.zh.md>`_
 
 
 pytest-upload-report is a plugin for `pytest <http://pytest.org>`_ that upload your test report for test results.
