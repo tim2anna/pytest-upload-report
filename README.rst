@@ -22,7 +22,7 @@ pytest-upload-report
 English | `简体中文 <docs/index.zh.md>`_
 
 
-pytest-upload-report is a plugin for `pytest <http://pytest.org>`_ that upload your test report for test results.
+pytest-upload-report is a plugin for `pytest`_ that upload your test report for test results.
 
 
 Features

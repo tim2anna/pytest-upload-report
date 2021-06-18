@@ -21,6 +21,7 @@ setup(
     license='MIT',
     url='https://github.com/tim2anna/pytest-upload-report',
     description='pytest-upload-report is a plugin for pytest that upload your test report for test results.',
+    long_description_content_type="text/x-rst",
     long_description=read('README.rst'),
     packages=["pytest_upload_report"],
     keywords="py.test pytest report allure upload",
