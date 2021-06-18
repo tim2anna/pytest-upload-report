@@ -82,6 +82,6 @@ def pytest_sessionfinish(session, exitstatus):
 
 @pytest.hookimpl
 def pytest_send_upload_request(upload_url, files, config):
-    from .upload_client import SignUploadClient
-    client = SignUploadClient(upload_url, files)
-    client.send_request(config)
+    from .upload_client import UploadClient
+    client = UploadClient(upload_url, files)
+    client.send_request()
