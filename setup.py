@@ -27,7 +27,7 @@ setup(
     python_requires='>=3.7',
     install_requires=['pytest>=6.2.4', 'requests>=2.25.1', 'allure-pytest>=2.9.43', 'pytest-html>=3.1.1'],
     classifiers=[
-        'Development Status :: 6 - Production/Stable',
+        'Development Status :: 5 - Production/Stable',
         'Framework :: Pytest',
         'Intended Audience :: Developers',
         'Topic :: Software Development :: Testing',
