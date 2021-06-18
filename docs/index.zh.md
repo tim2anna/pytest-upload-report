@@ -101,7 +101,7 @@ addopts = --alluredir=/tmp/my_allure_results --upload_url=http://127.0.0.1:8000/
 4. 在项目的根目录执行pytest后，查看上传结果吧：
 
 ```shell
-pytest
+$ pytest
 ```
     
 

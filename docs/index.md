@@ -104,7 +104,7 @@ addopts = --alluredir=/tmp/my_allure_results --upload_url=http://127.0.0.1:8000/
 Finally, run pytest command on you test project root dir:
 
 ```shell
-pytest
+$ pytest
 ```
     
 

@@ -110,7 +110,7 @@ Third, edit pytest.init on you test project root dir::
 
 Finally, run pytest command on you test project root dir::
 
-    pytest
+    $ pytest
 
 
 Also, you can view source code in the example directory.
